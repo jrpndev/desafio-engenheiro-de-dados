@@ -22,6 +22,8 @@ Implementaria uma solução de transferência automática dos dados usando Azure
 
 ![Arquitetura de Dados](https://drive.google.com/uc?id=1ckPAwQjNxKfsn598fubMNVROceimyPml)
 
+Escolhi essa arquitetura porque ela oferece uma solução completa e integrada para a transferência segura de dados entre empresas. O Azure Data Factory garante uma ingestão de dados confiável, o Azure Data Lake oferece armazenamento escalável, o Databricks facilita o processamento eficiente, enquanto o Azure Kubernetes e o Azure Key Vault garantem a segurança. Com o Application Insights, Azure Monitor e Azure AD, podemos monitorar e garantir a integridade do nosso ambiente em tempo real.
+
 
 ## Instruções de Uso
 
